@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're Sage Labs</h1>
-<h3 align="center">A pair of passionate Web3 developers from the US</h3>
+<h3 align="center">A pair of nerdy Web3 developers from the US</h3>
 
 
 <p align="center">
