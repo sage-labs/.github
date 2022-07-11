@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<a href="https://twitter.com/sagelabs_" target="blank"><img align="center" src="https://www.sagelabs.io/Sage-PFP.gif" alt="sagelabs_" height="40" width="40" /></a>
+<a href="https://twitter.com/sagelabs_" target="blank"><img align="center" src="https://www.sagelabs.io/Sage-PFP.gif" alt="sagelabs_" height="150" width="150" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
